@@ -1,4 +1,4 @@
-*Cognifyz Technologies*
+
 
 
 ****Data Analytics Internship****
