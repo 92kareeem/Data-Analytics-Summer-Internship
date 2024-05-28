@@ -1,10 +1,10 @@
 *Cognifyz Technologies*
 
 
-***Data Analytics Internship***
+****Data Analytics Internship****
 
 
-#Level 1 :
+**#Level 1** :
 
 
   Task 1: Top Cuisines, Determine the top three most common cuisines in the dataset. Calculate the percentage of restaurants that serve each of the top cuisines.
