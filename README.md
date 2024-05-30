@@ -28,6 +28,7 @@
 
 
 
+
 **#Level 2** :
 
 
@@ -53,7 +54,23 @@
   ![image](https://github.com/92kareeem/Data-Analytics-Summer-Internship/assets/110279232/d74f9619-d1ec-4b68-8bdd-0d0b9c602092)
 
 
-  
+
+
+**#Level 3** :
+
+  Task 1: Restaurant Reviews, Analyze the text reviews to identify the most common positive and negative keywords. Calculate the average length of reviews and explore if there is a relationship between review length and rating.
+
+  ![image](https://github.com/92kareeem/Data-Analytics-Summer-Internship/assets/110279232/25fab404-2f51-406e-accf-0feb7b01280b)
+
+
+  Task 2: Votes Analysis, Identify the restaurants with the highest and lowest number of votes. Analyze if there is a correlation between the number of votes and the rating of a restaurant.
+
+  ![image](https://github.com/92kareeem/Data-Analytics-Summer-Internship/assets/110279232/d350067c-67fb-41a3-bc6e-5d1038f60052)
+
+
+  Task 3: Price Range vs. Online Delivery and Table Booking, Analyze if there is a relationship between the price range and the availability of online  delivery and table booking. Determine if higher-priced restaurants are more likely to offer these services.
+
+  ![image](https://github.com/92kareeem/Data-Analytics-Summer-Internship/assets/110279232/324a0e6d-4f6e-4ebd-9a65-f37a85983be0)
 
 
 
